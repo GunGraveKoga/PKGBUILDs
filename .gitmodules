@@ -1,0 +1,9 @@
+[submodule "mingw-w64-clang"]
+	path = mingw-w64-clang
+	url = https://github.com/GunGraveKoga/mingw-w64-clang.git
+[submodule "mingw-w64-objfw-dev"]
+	path = mingw-w64-objfw-dev
+	url = https://github.com/GunGraveKoga/mingw-w64-objfw-dev.git
+[submodule "mingw-w64-objfw-rel"]
+	path = mingw-w64-objfw-rel
+	url = https://github.com/GunGraveKoga/mingw-w64-objfw-rel.git
